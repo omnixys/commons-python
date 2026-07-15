@@ -30,6 +30,7 @@ from omnixys_commons.enums.status_type import StatusType
 from omnixys_commons.enums.user_type import UserType
 
 __all__ = [
+    "EVENT_PERMISSION_DEFINITIONS",
     "AddressType",
     "ContactOptionsType",
     "ConversationChannel",
@@ -38,12 +39,11 @@ __all__ = [
     "EventMediaType",
     "EventMilestoneType",
     "EventPermissionCategory",
-    "EventPermissionKey",
     "EventPermissionDefinition",
-    "EVENT_PERMISSION_DEFINITIONS",
+    "EventPermissionKey",
     "EventRoleType",
-    "EventVisibleTab",
     "EventType",
+    "EventVisibleTab",
     "GenderType",
     "InterestCategoryType",
     "InterestType",

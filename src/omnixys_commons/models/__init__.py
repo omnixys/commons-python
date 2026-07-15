@@ -16,11 +16,11 @@ from omnixys_commons.models.validation_error import ValidationError
 
 __all__ = [
     "Address",
-    "EventAddress",
     "ApiResponse",
     "AuditMetadata",
     "ContractEnvelope",
     "ContractMetadata",
+    "EventAddress",
     "GeoLocation",
     "KeyValue",
     "OmnixysLocale",
