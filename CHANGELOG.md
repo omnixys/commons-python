@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/omnixys/commons-python/compare/v2.0.3...v2.0.4) (2026-07-22)
+
+
+### Bug Fixes
+
+* **publish:** add uv build before uv publish ([8bff216](https://github.com/omnixys/commons-python/commit/8bff216de72f95c82ed49f99c84fd55f41bd7bb5))
+
 ## [2.0.3](https://github.com/omnixys/commons-python/compare/v2.0.2...v2.0.3) (2026-07-22)
 
 
