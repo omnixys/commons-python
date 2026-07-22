@@ -18,7 +18,7 @@ pip install omnixys-commons
 ## Usage
 
 ```python
-from omnixys_commons import dtos, enums, errors, models
+from commons import dtos, enums, errors, models
 ```
 
 ## License
