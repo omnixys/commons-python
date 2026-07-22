@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/omnixys/commons-python/compare/v2.0.2...v2.0.3) (2026-07-22)
+
+
+### Bug Fixes
+
+* **publish:** replace gh release upload with uv publish to PyPI ([0abb9b3](https://github.com/omnixys/commons-python/commit/0abb9b3dd6380169f7779a95cdd247fa2f201eff))
+
 ## [2.0.2](https://github.com/omnixys/commons-python/compare/v2.0.1...v2.0.2) (2026-07-22)
 
 
