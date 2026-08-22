@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/omnixys/commons-python/compare/v3.0.0...v3.0.1) (2026-08-22)
+
+
+### Bug Fixes
+
+* **dir:** remove target dir ([6f93de7](https://github.com/omnixys/commons-python/commit/6f93de7ba7e28433c7537b1ef316cbe7737a03a7))
+
 # [3.0.0](https://github.com/omnixys/commons-python/compare/v2.0.4...v3.0.0) (2026-07-23)
 
 ## [2.0.4](https://github.com/omnixys/commons-python/compare/v2.0.3...v2.0.4) (2026-07-22)
